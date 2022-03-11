@@ -11,10 +11,10 @@ Drop me an email [here](mailto:info@djonesav.uk)
 
 
 Check out [Freelance Database](https://freelancedatabase.org) and our YouTube channel  
-![](https://img.shields.io/youtube/channel/views/UCfHd9wXlVe3xtr26l11wtsg?style=social)
+<a href="https://www.youtube.com/channel/UCfHd9wXlVe3xtr26l11wtsg"><img height="20" src="https://img.shields.io/youtube/channel/views/UCfHd9wXlVe3xtr26l11wtsg?style=social">
 
 Check out my personal YouTube channel                                                  
-![](https://img.shields.io/youtube/channel/views/UC-mvo7CbKZcOBTopwa_7SsQ?style=social)
+<a href="https://www.youtube.com/channel/UC-mvo7CbKZcOBTopwa_7SsQ"><img height="20" src="https://img.shields.io/youtube/channel/views/UC-mvo7CbKZcOBTopwa_7SsQ?style=social">
 
 
 ## What I Work With
@@ -31,6 +31,7 @@ Check out my personal YouTube channel
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonesd504&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 
+  
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonesd504&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 
