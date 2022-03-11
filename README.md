@@ -11,10 +11,10 @@ Drop me an email [here](mailto:info@djonesav.uk)
 
 
 Check out [Freelance Database](https://freelancedatabase.org) and our YouTube channel  
-<a href="https://www.youtube.com/channel/UCfHd9wXlVe3xtr26l11wtsg"><img height="20" src="https://img.shields.io/youtube/channel/views/UCfHd9wXlVe3xtr26l11wtsg?style=social">
+<a href="https://www.youtube.com/channel/UCfHd9wXlVe3xtr26l11wtsg"><img height="20" src="https://img.shields.io/youtube/channel/views/UCfHd9wXlVe3xtr26l11wtsg?style=social"></a>&nbsp;&nbsp;
 
-Check out my personal YouTube channel                                                  
-<a href="https://www.youtube.com/channel/UC-mvo7CbKZcOBTopwa_7SsQ"><img height="20" src="https://img.shields.io/youtube/channel/views/UC-mvo7CbKZcOBTopwa_7SsQ?style=social">
+Check out my personal YouTube channel                                                   
+<a href="https://www.youtube.com/channel/UC-mvo7CbKZcOBTopwa_7SsQ"><img height="20" src="https://img.shields.io/youtube/channel/views/UC-mvo7CbKZcOBTopwa_7SsQ?style=social"></a>&nbsp;&nbsp;
 
 
 ## What I Work With
