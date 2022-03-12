@@ -30,7 +30,7 @@ Check out my personal YouTube channel
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonesd504&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dom's GitHub Stats" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonesd504&langs_count=10&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonesd504&langs_count=10&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21)
 
 <!-- links to social media icons -->
 
