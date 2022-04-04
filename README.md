@@ -23,6 +23,7 @@ Check out my personal YouTube channel
 ![](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Azure-informational?style=flat&logo=MicrosoftAzure&logoColor=white&color=2bbc8a)
 
 
