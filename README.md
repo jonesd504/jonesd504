@@ -1,7 +1,11 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Dom Jones and I'm a frontend software developer from the United Kingdom, living in Reading. 
+My name is Dom Jones and I'm a frontend software developer from the United Kingdom, living in Bristol. 
+
+I have worked on a number of personal projects that include a search engine for freelancers in the events industry, A home website that includes a shopping list, stock count, and weekly menus, 
+a DIY digital art frame that autmatically generates AI artwork, and business websites for face masks and a coffee shop.
+You'll find some of my code here but feel free to contact me if you'd like to know more about my other projects.
 
 
 ## Get In Touch
@@ -10,7 +14,7 @@ You can find me on LinkedIn here:  [![LinkedIn][3.2]][3].
 Drop me an email [here](mailto:info@djonesav.uk)
 
 
-Check out [Freelance Database](https://freelancedatabase.org) and our YouTube channel  
+Check out our YouTube channel  
 <a href="https://www.youtube.com/channel/UCfHd9wXlVe3xtr26l11wtsg"><img height="20" src="https://img.shields.io/youtube/channel/views/UCfHd9wXlVe3xtr26l11wtsg?style=social"></a>&nbsp;&nbsp;
 
 Check out my personal YouTube channel                                                   
